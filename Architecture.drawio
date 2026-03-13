@@ -1,14 +1,17 @@
 <mxfile host="65bd71144e">
     <diagram id="AE9RLwRKIwE2OuNvxdVr" name="Page-1">
-        <mxGraphModel dx="5112" dy="4100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2890" dy="3783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://interqualitybg.com/images/AGILE_METHODOLOGY_InterQuality_image_1.jpg;" parent="1" vertex="1">
-                    <mxGeometry x="100" y="-1320" width="1279.38" height="890" as="geometry"/>
+                    <mxGeometry x="250" y="-1380" width="959.38" height="667.39" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;Method used&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="5" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;Method used&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="360" y="-1490" width="720" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="-640" width="400" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

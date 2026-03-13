@@ -1,0 +1,82 @@
+<mxfile host="65bd71144e">
+    <diagram id="I_hfZRgW_15sgXT_ALX6" name="Page-1">
+        <mxGraphModel dx="867" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font&gt;Phase 1: [&lt;span style=&quot;font-family: &amp;quot;Public Sans&amp;quot;, sans-serif; font-size: 12.48px; font-weight: 600; letter-spacing: 1.248px; text-align: start; text-transform: uppercase; color: rgb(154, 107, 47);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Public Sans&amp;quot;, sans-serif; font-size: 12.48px; letter-spacing: 1.248px; text-align: start; text-transform: uppercase; color: rgb(154, 107, 47);&quot;&gt;IT Assets (Unit 2)&lt;/span&gt;]&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="80" width="250" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="254.5" y="140" as="sourcePoint"/>
+                        <mxPoint x="254.5" y="190" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Pc placed in the lines" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="185" y="225" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="PC Assigned to the Employee" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="195" y="330" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="37">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Letop Assigned to the Employees" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="195" y="420" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;h1 style=&quot;box-sizing: border-box; margin: 0px 0px 1.6rem; padding: 0px; animation: 0.55s ease 0.1s 1 normal both running fadeUp; font-family: &amp;quot;Source Serif 4&amp;quot;, serif; line-height: 1.08; letter-spacing: -0.02em; color: rgb(23, 50, 77); text-align: start; background-color: rgba(255, 255, 255, 0.55);&quot; class=&quot;fade-up delay-1&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;Asset&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(154, 107, 47);&quot;&gt;Flow&amp;nbsp;&lt;/span&gt;Enterprise Asset Tracking System&lt;/u&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="-20" width="510" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="13" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;strong data-end=&quot;95&quot; data-start=&quot;83&quot;&gt;Phase 1:&lt;/strong&gt; In this phase, we will begin by identifying and managing the devices that are linked and assigned to the system. This includes all PCs placed on the production lines to ensure proper visibility and monitoring. We will also verify that each PC is properly assigned to the respective employee and include all laptops allocated to employees. In the later stage of this phase, we will expand the system to include other devices such as cameras, servers, printers, scanners, and all other possible devices available in this unit." style="text;strokeColor=#82b366;align=center;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="50" width="390" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="16" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="In this step, we will begin by identifying and working with the PCs available in stock as well as the PCs currently assigned to the production lines." style="text;strokeColor=#82b366;align=center;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="220" width="390" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="315" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="In this step, the PCs assigned to employees will be identified and managed to ensure proper tracking, allocation, and system visibility." style="text;strokeColor=#82b366;align=center;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="320" width="390" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="26" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="In this step, all laptops assigned to employees will be identified and managed to ensure proper tracking, allocation, and system visibility." style="text;strokeColor=#82b366;align=center;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="420" width="390" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;other devices such as cameras, servers, printers, scanners, and all other possible devices available in this unit.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="177.5" y="530" width="155" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="39" target="37">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="340" y="560"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="Layer, all remaining devices within the unit will be identified and managed. This includes devices such as printers, servers, and other IT equipment to ensure complete asset visibility and proper system integration." style="text;strokeColor=#82b366;align=center;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="530" width="380" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
