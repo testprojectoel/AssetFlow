@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="I_hfZRgW_15sgXT_ALX6" name="Page-1">
-        <mxGraphModel dx="867" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="615" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -64,7 +64,7 @@
                     <mxGeometry x="440" y="420" width="390" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;other devices such as cameras, servers, printers, scanners, and all other possible devices available in this unit.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-                    <mxGeometry x="177.5" y="530" width="155" height="100" as="geometry"/>
+                    <mxGeometry x="185" y="530" width="155" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="40" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="39" target="37">
                     <mxGeometry relative="1" as="geometry">
@@ -74,7 +74,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="39" value="Layer, all remaining devices within the unit will be identified and managed. This includes devices such as printers, servers, and other IT equipment to ensure complete asset visibility and proper system integration." style="text;strokeColor=#82b366;align=center;fillColor=#d5e8d4;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="450" y="530" width="380" height="60" as="geometry"/>
+                    <mxGeometry x="440" y="530" width="380" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
